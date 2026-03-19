@@ -1,0 +1,60 @@
+You are an impartial AI judge in a virtual courtroom. Given the following trial log and evidence, provide a summary and a suggested verdict with legal reasoning.\n\nTrial Log:\n{log}\n\nEvidence:\n{evidence}\n\nRoles:\nJudge: {judge}\nPlaintiff: {plaintiff}\nDefendant: {defendant}\n\nPlease respond with a clear, concise verdict and reasoning.
+
+Legal Case Study: State vs. Ramesh Kumar
+1. Introduction
+This case study examines a criminal matter involving charges of theft under the Indian Penal Code (IPC). It highlights how evidence, intent, and procedural law influence judicial decisions.
+
+2. Case Background
+Case Title: State vs. Ramesh Kumar
+Court: District Court
+Year: 2022
+Relevant Law: Section 378 & 379 of IPC (Theft)
+Facts:
+Ramesh Kumar, an employee at a warehouse, was accused of stealing electronic goods worth ₹2,00,000. The complaint was filed by the warehouse owner after a routine inventory audit revealed missing items.
+
+3. Legal Issues
+The court examined the following key issues:
+Whether Ramesh Kumar committed theft as defined under IPC.
+Whether there was sufficient evidence to prove guilt beyond reasonable doubt.
+Whether the accused had criminal intent (mens rea).
+
+4. Arguments
+Prosecution Arguments:
+CCTV footage showed Ramesh near the storage area at the time of the incident.
+Missing goods were later found in a location linked to the accused.
+Witness testimony from co-workers suggested suspicious behavior.
+Defense Arguments:
+The CCTV footage was unclear and did not directly show theft.
+The accused claimed he was performing routine duties.
+No direct evidence proving possession of stolen goods.
+
+5. Evidence Presented
+CCTV recordings
+Inventory audit reports
+Witness statements
+Recovery of goods (circumstantial evidence)
+
+6. Court’s Analysis
+The court analyzed:
+The reliability of circumstantial evidence
+Whether the chain of evidence was complete
+The principle of “benefit of doubt”
+The court noted that while suspicion existed, the prosecution failed to establish a direct link between the accused and the stolen goods.
+
+7. Judgment
+Verdict: Not Guilty
+Reason: Lack of conclusive evidence and incomplete chain of circumstances.
+
+8. Legal Principles Applied
+Presumption of innocence
+Burden of proof lies on the prosecution
+Benefit of doubt goes to the accused
+
+9. Conclusion
+This case demonstrates the importance of strong and direct evidence in criminal trials. Mere suspicion or partial evidence is insufficient for conviction. Courts require a complete and convincing chain of proof before declaring someone guilty.
+
+10. Key Learnings
+Evidence must be beyond reasonable doubt
+Circumstantial evidence must form a complete chain
+Legal safeguards protect individuals from wrongful conviction
+
